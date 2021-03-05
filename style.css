@@ -113,3 +113,17 @@ img{
 img;hover{
     transform: scale(0.9);
 }
+#contact iframe {
+    width: 100%;
+
+}
+
+.contact1 h3 {
+    display: inline;
+}
+
+.contact a {
+    color: white;
+    text-shadow: none;
+
+}
