@@ -106,13 +106,18 @@ a {
 .article:hover {
     color: fuchsia;
 }
-img{
-    transition:transform .2s;
+
+img {
+    transition: transform .2s;
     border: 10px solid #AAAAAA;
+    width: 400px;
+    height: 300px;
 }
-img;hover{
+
+img:hover {
     transform: scale(0.9);
 }
+
 #contact iframe {
     width: 100%;
 
